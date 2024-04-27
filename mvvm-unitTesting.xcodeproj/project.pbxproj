@@ -39,6 +39,10 @@
 		CEEA53942BDD01DB009F95EB /* model.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEA53932BDD01DB009F95EB /* model.swift */; };
  
  
+ 
+ 
+		CEEA53982BDD53E6009F95EB /* testModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEA53972BDD53E6009F95EB /* testModel.swift */; };
+ 
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -98,6 +102,11 @@
 		CEBBF1302B9DCA030055F112 /* APIEndPoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIEndPoint.swift; sourceTree = "<group>"; };
 		CEBBF1322B9DD39C0055F112 /* APIClientTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIClientTests.swift; sourceTree = "<group>"; };
 		CEBBF1362B9DDFD90055F112 /* MockURLProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockURLProtocol.swift; sourceTree = "<group>"; };
+<<<<<<< HEAD
+=======
+		CEEA53932BDD01DB009F95EB /* model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = model.swift; sourceTree = "<group>"; };
+		CEEA53972BDD53E6009F95EB /* testModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testModel.swift; sourceTree = "<group>"; };
+>>>>>>> ee3dac9c4becfeabb5d7eac1b26e6b35e528d98b
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -242,6 +251,11 @@
 			isa = PBXGroup;
 			children = (
 				CEBBF1102B9B3E170055F112 /* Product.swift */,
+<<<<<<< HEAD
+=======
+				CEEA53932BDD01DB009F95EB /* model.swift */,
+				CEEA53972BDD53E6009F95EB /* testModel.swift */,
+>>>>>>> ee3dac9c4becfeabb5d7eac1b26e6b35e528d98b
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -537,6 +551,7 @@
 				CEBBF1262B9CA4450055F112 /* UIImageView+Extension.swift in Sources */,
 				CEBBF1132B9B40B70055F112 /* ProductViewModel.swift in Sources */,
 				CEBBF1242B9CA3E80055F112 /* UIView+Extensions.swift in Sources */,
+				CEEA53982BDD53E6009F95EB /* testModel.swift in Sources */,
 				CEBBF1112B9B3E170055F112 /* Product.swift in Sources */,
 				CEBBF11A2B9C35BB0055F112 /* HttpUtility.swift in Sources */,
 				CEBBF12F2B9DBC190055F112 /* APIClient.swift in Sources */,
