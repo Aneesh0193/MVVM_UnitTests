@@ -6,3 +6,4 @@ import Foundation
 let kIdentifierNotFound = "Identifier not found"
 let kCataLogueCellIdentifier = "productCell"
  
+let TrashkCataLogueCellIdentifier = "productCell"
