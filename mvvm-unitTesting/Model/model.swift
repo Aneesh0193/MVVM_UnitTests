@@ -18,4 +18,9 @@ class main {
     func two() {
         
     }
+    
+    func three() {
+        
+        print("three")
+    }
 }
