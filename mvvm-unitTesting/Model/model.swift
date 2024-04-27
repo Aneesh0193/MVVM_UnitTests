@@ -6,3 +6,11 @@
 //
 
 import Foundation
+
+
+class main {
+    
+    func main() {
+        
+    }
+}
