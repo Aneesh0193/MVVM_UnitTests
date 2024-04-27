@@ -25,6 +25,16 @@ class develop {
 }
  
  
+class develop {
+    
+    func dev() {
+        
+        //feature branch
+        
+    }
+    
+}
+ 
 class main {
     
     func main() {
