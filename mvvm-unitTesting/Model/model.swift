@@ -7,13 +7,12 @@
 
 import Foundation
 
- 
+
  
 class develop {
     
     func dev() {
         
- 
         //feature branch
         
     }
@@ -24,31 +23,20 @@ class develop {
     
 }
  
- 
-class develop {
-    
-    func dev() {
-        
-        //feature branch
-        
-    }
-    
-}
- 
 class main {
     
     func main() {
  
- 
- 
         //main branch changes
+ 
+ 
+         print("modified from develop branch")
+ 
     }
     
     
     func two() {
- 
         
- 
     }
     
     func three() {

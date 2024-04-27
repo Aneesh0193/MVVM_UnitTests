@@ -25,7 +25,7 @@ struct APIClient: APIClientProtocol {
         var request = URLRequest(url: url)
         print(request)
         request.httpMethod = HTTPMethod.get.rawValue
-        
+        print(url)
         setHeaders(request: &request, token: "accessToken")
         
         do {
