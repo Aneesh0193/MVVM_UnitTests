@@ -35,7 +35,9 @@
 		CEBBF1312B9DCA040055F112 /* APIEndPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEBBF1302B9DCA030055F112 /* APIEndPoint.swift */; };
 		CEBBF1332B9DD39C0055F112 /* APIClientTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEBBF1322B9DD39C0055F112 /* APIClientTests.swift */; };
 		CEBBF1372B9DDFD90055F112 /* MockURLProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEBBF1362B9DDFD90055F112 /* MockURLProtocol.swift */; };
+ 
 		CEEA53942BDD01DB009F95EB /* model.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEA53932BDD01DB009F95EB /* model.swift */; };
+ 
  
 /* End PBXBuildFile section */
 
@@ -96,7 +98,6 @@
 		CEBBF1302B9DCA030055F112 /* APIEndPoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIEndPoint.swift; sourceTree = "<group>"; };
 		CEBBF1322B9DD39C0055F112 /* APIClientTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIClientTests.swift; sourceTree = "<group>"; };
 		CEBBF1362B9DDFD90055F112 /* MockURLProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockURLProtocol.swift; sourceTree = "<group>"; };
-		CEEA53932BDD01DB009F95EB /* model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -241,7 +242,6 @@
 			isa = PBXGroup;
 			children = (
 				CEBBF1102B9B3E170055F112 /* Product.swift */,
-				CEEA53932BDD01DB009F95EB /* model.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -533,7 +533,6 @@
 				CEBBF0D72B98D4C60055F112 /* SceneDelegate.swift in Sources */,
 				CEBBF10C2B98D77D0055F112 /* AppConstants.swift in Sources */,
 				CEBBF11C2B9CA1400055F112 /* URLContstants.swift in Sources */,
-				CEEA53942BDD01DB009F95EB /* model.swift in Sources */,
 				CEBBF1182B9C35800055F112 /* ServiceProvider.swift in Sources */,
 				CEBBF1262B9CA4450055F112 /* UIImageView+Extension.swift in Sources */,
 				CEBBF1132B9B40B70055F112 /* ProductViewModel.swift in Sources */,
