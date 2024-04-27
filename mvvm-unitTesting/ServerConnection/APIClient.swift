@@ -23,6 +23,7 @@ struct APIClient: APIClientProtocol {
     
     func postResource<T: Decodable, E: Encodable>( to url: URL, body: E?, decodeTo type: T.Type) async throws -> T {
         var request = URLRequest(url: url)
+        print(request)
         request.httpMethod = HTTPMethod.get.rawValue
         
         setHeaders(request: &request, token: "accessToken")
