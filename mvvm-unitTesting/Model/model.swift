@@ -26,12 +26,12 @@ class develop {
 class main {
     
     func main() {
- 
+        
         //main branch changes
- 
- 
-         print("modified from develop branch")
- 
+        
+        
+        print("modified from develop branch")
+        
     }
     
     
@@ -43,11 +43,5 @@ class main {
         
         print("three")
     }
- 
-class develop {
     
-    func dev() {
-        
-    }
- 
 }
