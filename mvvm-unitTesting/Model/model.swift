@@ -38,4 +38,9 @@ class main {
         
  
     }
+    
+    func three() {
+        
+        print("three")
+    }
 }
