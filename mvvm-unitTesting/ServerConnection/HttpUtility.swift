@@ -13,6 +13,7 @@ protocol APIServiceProtocol {
     func getAPIData<T>(url: URL,decodeTo type: T.Type) async throws -> T where T: Decodable 
 }
 
+//MARK: - HttpUtility
 struct HttpUtility: APIServiceProtocol {
     
     let session: URLSession
