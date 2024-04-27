@@ -8,6 +8,7 @@
 import Foundation
 
  
+ 
 class develop {
     
     func dev() {
@@ -22,6 +23,7 @@ class develop {
     }
     
 }
+ 
  
 class main {
     
@@ -43,4 +45,11 @@ class main {
         
         print("three")
     }
+ 
+class develop {
+    
+    func dev() {
+        
+    }
+ 
 }
