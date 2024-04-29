@@ -21,13 +21,13 @@ class main {
         print("code base two")
  
         print("rebase branch")
+        
+        print("rebase commit")
  
     }
     
     func three() {
         
-        print("rebase commit 4")
-     
         print("three")
     }
 }
