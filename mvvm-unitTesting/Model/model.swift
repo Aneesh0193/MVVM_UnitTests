@@ -21,8 +21,10 @@ class main {
         print("code base two")
  
         print("rebase branch")
+ 
         
         print("rebase commit")
+ 
  
     }
     
