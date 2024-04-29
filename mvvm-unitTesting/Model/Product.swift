@@ -92,6 +92,7 @@ struct ServerPublicKey: Decodable {
         case serverPublicKey = "server_public_key"
     }
 }
+
 // MARK: - Token
 struct Token: Decodable {
     let token: String

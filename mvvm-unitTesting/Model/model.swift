@@ -13,8 +13,7 @@ class develop {
     
     func dev() {
         
-        //feature branch
-        
+        //feature branch 
     }
     
     func devThree() {
@@ -26,14 +25,7 @@ class develop {
 class main {
     
     func main() {
- 
-        
-        //main branch changes
-        
-        
         print("modified from develop branch")
-        
-  
     }
     
     
