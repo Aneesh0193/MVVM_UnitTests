@@ -26,6 +26,8 @@ class main {
     
     func three() {
         
+        print("rebase commit 4")
+     
         print("three")
     }
 }
