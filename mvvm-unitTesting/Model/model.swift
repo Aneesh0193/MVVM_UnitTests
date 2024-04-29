@@ -21,6 +21,8 @@ class main {
         print("code base two")
  
         print("rebase branch")
+        
+        print("rebase commit")
  
         
         print("rebase commit")
@@ -30,8 +32,6 @@ class main {
     
     func three() {
         
-        print("rebase commit 4")
-     
         print("three")
     }
 }
